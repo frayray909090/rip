@@ -1,0 +1,4 @@
+C:\Users\linden\Desktop\Comet source\obj\x64\Debug\net472\comet-3.csproj.AssemblyReference.cache
+C:\Users\linden\Desktop\Comet source\obj\x64\Debug\net472\comet-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\linden\Desktop\Comet source\obj\x64\Debug\net472\comet-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linden\Desktop\Comet source\obj\x64\Debug\net472\comet-3.csproj.CoreCompileInputs.cache

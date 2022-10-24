@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Comet 3</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.AvalonEdit" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System.Core">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/WindowsBase.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>/usr/share/dotnet/shared/Microsoft.NETCore.App/3.1.10/Microsoft.CSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
